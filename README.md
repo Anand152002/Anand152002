@@ -1,6 +1,6 @@
 # Hey there👋!! I'm Anand
 
-    💻 Shell's MLE by day, coding enthusiast by night
+    💻 AI?ML Engineer at Edcults
     🌱 Delving into the fascinating world of AI
     👯 Seeking exciting collaborations
     💬 Need a hand or have questions? I'm here to assist!
