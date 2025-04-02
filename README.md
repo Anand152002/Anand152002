@@ -1,5 +1,11 @@
-### Hi there 👋 I'm Anand
+# Hey there👋!! I'm Anand
 
+    💻 Shell's MLE by day, coding enthusiast by night
+    🌱 Delving into the fascinating world of AI
+    👯 Seeking exciting collaborations
+    💬 Need a hand or have questions? I'm here to assist!
+    📫 Reach out to me at anandgutta64@gmail.com
+    
 <!--
 **AnandGutta/AnandGutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
